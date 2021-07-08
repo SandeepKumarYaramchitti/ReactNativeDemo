@@ -1,0 +1,6 @@
+module Pods_ReactNativeDemo_ReactNativeDemoTests {
+  umbrella header "Pods-ReactNativeDemo-ReactNativeDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
